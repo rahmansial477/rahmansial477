@@ -1,90 +1,108 @@
-<div align="center">
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hey+I'm+Rahman+%F0%9F%91%8B;Web3+Builder+%7C+Full+Stack+Developer;Building+on+Arc+%F0%9F%94%97;Creating+the+future+of+Web3+%F0%9F%9A%80" alt="Typing Animation" /><br><img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Rahman%20&fontSize=48&fontAlignY=38&desc=Web3%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%" /></div>---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=%2CIm+Rahman;Web3+Builder+%7C+Content+Creator" alt="Typing SVG" />
+ About Me
 
-</div>
+I'm a Web3 Builder and Full Stack Developer focused on building useful decentralized applications and exploring emerging blockchain ecosystems.
 
-<br>
+I enjoy taking ideas from concept to working product and experimenting with new protocols and technologies.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahman%20Sial&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%26%20Creating%20in%20Web3&descAlignY=58&descSize=18" width="100%"/>
+-  Currently building ArcNS
+-  Building Web3 and blockchain applications
+-  Working with React TypeScript and Solidity
+-  Exploring emerging Web3 ecosystems and testnets
 
 
-<br>
+---
 
-##  About Me
+ Featured Projects
 
-I'm a **Web3 builder and content creator** from Pakistan 🇵🇰  I split my time between shipping on-chain products and creating content around the Web3 space. I believe in getting involved early: testing new protocols, giving real feedback to dev teams, and building alongside ecosystems before they take off.
+<div align="center">🔗 ArcNS
 
--  Currently building **ArcNS**  a domain name service project
--  Creating Web3 content on X & Discord  breakdowns, testnet walkthroughs, ecosystem deep-dives
--  Active early tester across multiple Web3 ecosystems  smart contracts, dApps, testnets
--  Community-first mindset  feedback, engagement, and early contribution before mainstream adoption
+On Chain Domain Name Service
 
-<br>
+A Web3 naming solution designed to make blockchain addresses easier to use with human readable names.
 
-##  Featured Project
+<a href="https://arc-ns.lovable.app/">
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-View%20Project-black?style=for-the-badge" />
+</a><br><br>
 
-<div align="center">
+<a href="https://github.com/rahmansial477/arc-ns">
+<img src="https://img.shields.io/badge/GitHub-ArcNS-181717?style=for-the-badge&logo=github" />
+</a></div>---
 
-### 🔗 ArcNS
-**On-chain domain name service**
+ Custodia
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-F7931A?style=for-the-badge&logo=vercel&logoColor=white)](https://arc-ns.lovable.app/)
+A Web3 focused project exploring useful tools and infrastructure for the decentralized ecosystem.
 
-A domain naming service bringing human-readable identity to on-chain addresses  built, tested, and live.
+<a href="https://github.com/rahmansial477/Custodia">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>---
 
-</div>
+ Tech Stack
 
-<br>
+<div align="center">Development
 
-## 🛠️ Skills & Tools
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,solidity,html,css,vite,git,github" /><br><br>
 
-<div align="center">
+Web3
 
-**Development**
+<img src="https://skillicons.dev/icons?i=ethereum" /></div>---
 
-<img src="https://skillicons.dev/icons?i=solidity,react,ts,js,html,css,git,github" />
+ What I Build
 
-<br><br>
+┌──────────────────────────────────────┐
+│          WEB3 DEVELOPMENT            │
+├──────────────────────────────────────┤
+│                                      │
+│    Decentralized Applications      │
+│    Smart Contract Integrations     │
+│    Web3 Frontends                  │
+│    Testnet Applications            │
+│    Blockchain Experiments          │
+│    Developer Tools                 │
+│                                      │
+└──────────────────────────────────────┘
 
-**Content & Community**
+---
 
-![Content Creation](https://img.shields.io/badge/Content_Creation-000000?style=for-the-badge&logo=x&logoColor=white)
-![Community Building](https://img.shields.io/badge/Community_Building-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Testing & Feedback](https://img.shields.io/badge/Testing_%26_Feedback-F7931A?style=for-the-badge&logo=ethereum&logoColor=white)
+ GitHub Stats
 
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahmansial477&show_icons=true&hide_border=true&theme=transparent" height="165" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmansial477&layout=compact&hide_border=true&theme=transparent" height="165" /><br><br>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=rahmansial477&hide_border=true&theme=transparent" /></div>---
 
-##  GitHub Stats
+ Contribution Graph
 
-<div align="center">
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmansial477&hide_border=true&theme=github-compact" width="95%" /></div>---
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahmansial477&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7931A&icon_color=F7931A&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmansial477&theme=radical&hide_border=true&background=0D1117&ring=F7931A&fire=F7931A&currStreakLabel=F7931A" width="48%" />
+🐍 Contribution Snake
 
-<br>
+<div align="center"><img src="https://raw.githubusercontent.com/rahmansial477/rahmansial477/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /></div>---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmansial477&theme=react-dark&bg_color=0D1117&color=F7931A&line=F7931A&point=ffffff&hide_border=true" width="97%" />
+ Current Focus
 
-</div>
+Web3 Development     ████████████████████ 100%
+Blockchain Learning  ██████████████████░░  90%
+Smart Contracts      ████████████████░░░░  80%
+Frontend Development ███████████████████░  95%
+Building             ████████████████████ 100%
 
-<br>
+---
 
-##  Connect With Me
+ Always Building
 
-<div align="center">
+«learning → building → testing → improving → shipping »
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahmansial477)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahmansial477)
+I'm constantly experimenting with new ideas and looking for better ways to build useful products in Web3.
 
-</div>
+---
 
-<br>
+ Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center"><a href="https://github.com/rahmansial477">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="https://x.com/rahmansial477">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a><br><br>
 
-<div align="center">
-<i>Web3 🔗</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" width="100%" /></div>
