@@ -6,7 +6,7 @@ I'm a Web3 Builder and Full Stack Developer focused on building useful decentral
 
 I enjoy taking ideas from concept to working product and experimenting with new protocols and technologies.
 
--  Currently building ArcNS
+-  Currently building ArcNS, Custodia and Mercury
 -  Building Web3 and blockchain applications
 -  Working with React TypeScript and Solidity
 -  Exploring emerging Web3 ecosystems and testnets
@@ -79,24 +79,7 @@ Web3
 
 <div align="center"><img src="https://raw.githubusercontent.com/rahmansial477/rahmansial477/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /></div>---
 
- Current Focus
-
-Web3 Development     ████████████████████ 100%
-Blockchain Learning  ██████████████████░░  90%
-Smart Contracts      ████████████████░░░░  80%
-Frontend Development ███████████████████░  95%
-Building             ████████████████████ 100%
-
----
-
- Always Building
-
-«learning → building → testing → improving → shipping »
-
-I'm constantly experimenting with new ideas and looking for better ways to build useful products in Web3.
-
----
-
+ 
  Connect With Me
 
 <div align="center"><a href="https://github.com/rahmansial477">
